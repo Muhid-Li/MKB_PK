@@ -17,7 +17,7 @@ $ pip install stdiomask
 
 $ pip install pysocks
 
-$ git clone https://github.com/Muhidss/MKB_PK
+$ git clone https://github.com/Muhidss/MKB_PK.git
 
 $ cd MKB_PK
 

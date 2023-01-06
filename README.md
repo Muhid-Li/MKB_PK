@@ -1,8 +1,6 @@
 # MKB_PK
 
 
-#MENJALAKAN TOLS#
-
 $ pkg update && pkg upgrade
 
 $ pkg install python
